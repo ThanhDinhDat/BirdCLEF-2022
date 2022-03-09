@@ -50,7 +50,7 @@ Jinja2==3.0.3
 joblib==1.0.1
 jsonschema==4.4.0
 julius==0.2.6
-jjupyterlab-pygments==0.1.2
+jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
 kiwisolver==1.3.2
 kmodes==0.11.1
